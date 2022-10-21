@@ -1,3 +1,0 @@
-kernal.txt ="8080"
-kernal u.name ="sunithavenkat"
-kernal u.repo="sb-spring-data"
